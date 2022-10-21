@@ -4,3 +4,4 @@
 2. Add Controller.
 3. Add a View.
 4. Add a model.
+5. work with a database in an ASP.NET Core MVC app.
