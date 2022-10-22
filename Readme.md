@@ -9,3 +9,4 @@
 7. add search to an ASP.NET Core MVC app.
 8. add a new field to an ASP.NET Core MVC app.
 9. add validation to an ASP.NET Core MVC app.
+10. examine the Details and Delete methods of an ASP.NET Core app.
